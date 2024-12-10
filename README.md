@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseane</h1>
-<h3 align="center">a physicist who loves python</h3>
+<h3 align="center"></h3>
 
 <p align="left">
 </p>
